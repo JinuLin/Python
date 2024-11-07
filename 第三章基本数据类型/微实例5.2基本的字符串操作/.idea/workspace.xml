@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef0fb899-5496-4946-ae5d-b811b6ede130" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../电子教案/Python内置函数列表.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../电子教案/图片资料2-1 Python的33个保留字列表.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../电子教案/图片资料A-1 Python快速参考之math库.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../电子教案/图片资料A-2 Python快速参考之random库.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../电子教案/图片资料A-3 Python快速参考之turtle库.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../电子教案/图片资料A-9 Python快速参考之Python基础语法.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../电子教案/电子教案1-1 程序设计基本方法.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../电子教案/电子教案10-1 网络爬虫和自动化.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../电子教案/电子教案2-1 Python程序实例解析.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../电子教案/电子教案3-1 基本数据类型.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../电子教案/电子教案4-1 程序的控制结构.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../电子教案/电子教案5-1 函数和代码复用.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../电子教案/电子教案6-1 组合数据类型.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../电子教案/电子教案7-1 文件和数据格式化.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../电子教案/电子教案8-1 程序设计方法论.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../电子教案/电子教案9-1 科学计算和可视化.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../电子教案/附录B：人机接口和图形编程.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../电子教案/附录C：数据处理和挖掘.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.1圆面积的计算/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.1圆面积的计算/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.1圆面积的计算/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.1圆面积的计算/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.1圆面积的计算/微实例1.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.2简单的人机对话/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.2简单的人机对话/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.2简单的人机对话/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.2简单的人机对话/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.2简单的人机对话/微实例1.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.3斐波那契数列的计算/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.3斐波那契数列的计算/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.3斐波那契数列的计算/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.3斐波那契数列的计算/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.3斐波那契数列的计算/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.3斐波那契数列的计算/微实例1.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.4同切圆的绘制/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.4同切圆的绘制/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.4同切圆的绘制/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.4同切圆的绘制/微实例1.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.5日期和时间的输出/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.5日期和时间的输出/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.5日期和时间的输出/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.5日期和时间的输出/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/微实例1.5日期和时间的输出/微实例1.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/电子教案1-1 程序设计基本方法.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.1字符串拼接/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.1字符串拼接/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.1字符串拼接/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.1字符串拼接/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.1字符串拼接/1.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.2整数数列求和/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.2整数数列求和/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.2整数数列求和/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.2整数数列求和/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.2整数数列求和/1.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.3九九乘法表/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.3九九乘法表/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.3九九乘法表/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.3九九乘法表/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.3九九乘法表/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.3九九乘法表/1.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.4计算1!+2!+3!...+10!的结果/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.4计算1!+2!+3!...+10!的结果/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.4计算1!+2!+3!...+10!的结果/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.4计算1!+2!+3!...+10!的结果/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.4计算1!+2!+3!...+10!的结果/1.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.5猴子吃桃的问题/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.5猴子吃桃的问题/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.5猴子吃桃的问题/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.5猴子吃桃的问题/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.5猴子吃桃的问题/1.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.6健康食谱输出/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.6健康食谱输出/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.6健康食谱输出/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.6健康食谱输出/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.6健康食谱输出/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.6健康食谱输出/1.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.7五角星的绘制/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.7五角星的绘制/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.7五角星的绘制/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.7五角星的绘制/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.7五角星的绘制/1.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.8太阳花的绘制/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.8太阳花的绘制/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.8太阳花的绘制/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.8太阳花的绘制/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第一章初识Python语言/第一章习题/1.8太阳花的绘制/1.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../图片资料A-1 Python快速参考之math库.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.1pow函数的运用/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.1pow函数的运用/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.1pow函数的运用/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.1pow函数的运用/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.1pow函数的运用/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.1pow函数的运用/.idea/微实例1.1pow函数的运用.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.1pow函数的运用/微实例1.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.2浮点型数的类型/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.2浮点型数的类型/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.2浮点型数的类型/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.2浮点型数的类型/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.2浮点型数的类型/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.2浮点型数的类型/.idea/微实例1.2浮点型数的类型.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.2浮点型数的类型/微实例1.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.3高精度浮点运算类型/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.3高精度浮点运算类型/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.3高精度浮点运算类型/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.3高精度浮点运算类型/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.3高精度浮点运算类型/.idea/微实例1.3高精度浮点运算类型.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.3高精度浮点运算类型/微实例1.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.4复数类型/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.4复数类型/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.4复数类型/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.4复数类型/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.4复数类型/.idea/微实例1.4复数类型.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例1.4复数类型/微实例1.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例2.1数字类型的运算/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例2.1数字类型的运算/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例2.1数字类型的运算/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例2.1数字类型的运算/.idea/微实例2.1数字类型的运算.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例2.1数字类型的运算/微实例2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例2.2内置数值运算函数/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例2.2内置数值运算函数/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例2.2内置数值运算函数/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例2.2内置数值运算函数/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例2.2内置数值运算函数/.idea/微实例2.2内置数值运算函数.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例2.2内置数值运算函数/微实例2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例2.3数字类型的转换/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例2.3数字类型的转换/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例2.3数字类型的转换/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例2.3数字类型的转换/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例2.3数字类型的转换/.idea/微实例2.3数字类型的转换.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例2.3数字类型的转换/微实例2.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例3.1math库的使用/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例3.1math库的使用/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例3.1math库的使用/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例3.1math库的使用/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例3.1math库的使用/微实例3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例4.1天天向上/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例4.1天天向上/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例4.1天天向上/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例4.1天天向上/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例4.1天天向上/.idea/微实例4.1天天向上.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例4.1天天向上/微实例4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例5.1字符串类型的表示/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例5.1字符串类型的表示/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例5.1字符串类型的表示/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例5.1字符串类型的表示/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例5.1字符串类型的表示/.idea/微实例5.1字符串类型的表示.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例5.1字符串类型的表示/微实例5.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/微实例5.2基本的字符串操作.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/微实例5.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例5.3获取星期字符串/微实例5.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例5.4内置字符串处理函数/微实例5.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例5.5凯撒密码/微实例5.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例5.6内置的字符串处理方法/微实例5.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例6.1format()方法的基本使用/微实例6.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例6.2format方法的格式控制/微实例6.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例7.1基本的多行文本进度条/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例7.1基本的多行文本进度条/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例7.1基本的多行文本进度条/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例7.1基本的多行文本进度条/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例7.1基本的多行文本进度条/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例7.1基本的多行文本进度条/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例7.1基本的多行文本进度条/.idea/微实例7.1基本的多行文本进度条.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例7.1基本的多行文本进度条/微实例7.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例7.2单行动态刷新/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例7.2单行动态刷新/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例7.2单行动态刷新/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例7.2单行动态刷新/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例7.2单行动态刷新/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例7.2单行动态刷新/.idea/微实例7.2单行动态刷新.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例7.2单行动态刷新/微实例7.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例7.3带刷新的文本进度条/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例7.3带刷新的文本进度条/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例7.3带刷新的文本进度条/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例7.3带刷新的文本进度条/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例7.3带刷新的文本进度条/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例7.3带刷新的文本进度条/.idea/微实例7.3带刷新的文本进度条.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../微实例7.3带刷新的文本进度条/微实例7.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../电子教案3-1 基本数据类型.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第三章习题/3.1重量计算/3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第三章习题/3.2天天向上续/3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第三章习题/3.3天天向上续/3.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第三章习题/3.4回文数的判断/3.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第三章习题/3.5田字格的输出/3.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第三章习题/3.6文本进度条/3.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第三章习题/3.7文本风格/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第三章习题/3.7文本风格/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第三章习题/3.7文本风格/.idea/3.7文本风格.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第三章习题/3.7文本风格/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第三章习题/3.7文本风格/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第三章习题/3.7文本风格/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第三章习题/3.7文本风格/3.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第三章习题/3.8第三方进度条工具库tqdm/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第三章习题/3.8第三方进度条工具库tqdm/.idea/3.8第三方进度条工具库tqdm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第三章习题/3.8第三方进度条工具库tqdm/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第三章习题/3.8第三方进度条工具库tqdm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第三章习题/3.8第三方进度条工具库tqdm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第三章习题/3.8第三方进度条工具库tqdm/3.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/图片资料2-1 Python的33个保留字列表.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/图片资料A-3 Python快速参考之turtle库.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例1.1温度转换实例/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例1.1温度转换实例/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例1.1温度转换实例/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例1.1温度转换实例/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例1.2温度转换while循环/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例1.2温度转换while循环/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例1.2温度转换while循环/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例1.2温度转换while循环/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例1.2温度转换while循环/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例1.3温度转换封装/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例1.3温度转换封装/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例1.3温度转换封装/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例1.3温度转换封装/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例2.1蟒蛇的绘制/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例2.1蟒蛇的绘制/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例2.1蟒蛇的绘制/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例2.1蟒蛇的绘制/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例2.2蟒蛇的绘制的改写/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例2.2蟒蛇的绘制的改写/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例2.2蟒蛇的绘制的改写/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例2.2蟒蛇的绘制的改写/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例2.3蟒蛇的绘制封装/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例2.3蟒蛇的绘制封装/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例2.3蟒蛇的绘制封装/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/微实例2.3蟒蛇的绘制封装/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/电子教案2-1 Python程序实例解析.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.1温度转换eval整数输出/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.1温度转换eval整数输出/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.1温度转换eval整数输出/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.1温度转换eval整数输出/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.1温度转换eval整数输出/2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.2汇率转换程序/.idea/2.2汇率转换程序.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.2汇率转换程序/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.2汇率转换程序/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.2汇率转换程序/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.2汇率转换程序/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.2汇率转换程序/2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.3彩色蟒蛇绘制/.idea/2.3彩色蟒蛇绘制.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.3彩色蟒蛇绘制/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.3彩色蟒蛇绘制/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.3彩色蟒蛇绘制/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.3彩色蟒蛇绘制/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.3彩色蟒蛇绘制/2.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.4等边三角形的绘制/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.4等边三角形的绘制/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.4等边三角形的绘制/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.4等边三角形的绘制/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.4等边三角形的绘制/2.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.5叠加等边三角形的绘制/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.5叠加等边三角形的绘制/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.5叠加等边三角形的绘制/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.5叠加等边三角形的绘制/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.5叠加等边三角形的绘制/2.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.6无角正方形的绘制/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.6无角正方形的绘制/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.6无角正方形的绘制/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.6无角正方形的绘制/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.6无角正方形的绘制/2.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.7六角正方形的绘制/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.7六角正方形的绘制/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.7六角正方形的绘制/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.7六角正方形的绘制/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.7六角正方形的绘制/2.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.8正方形陀螺线的绘制/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.8正方形陀螺线的绘制/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.8正方形陀螺线的绘制/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.8正方形陀螺线的绘制/2.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.9自定义蟒蛇的绘制/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.9自定义蟒蛇的绘制/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.9自定义蟒蛇的绘制/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.9自定义蟒蛇的绘制/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第二章Python程序实例解析/第二章习题/2.9自定义蟒蛇的绘制/2.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/图片资料A-2 Python快速参考之random库.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例1.1圆面积和周长的计算/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例1.1圆面积和周长的计算/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例1.1圆面积和周长的计算/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例1.1圆面积和周长的计算/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例1.1圆面积和周长的计算/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例1.1圆面积和周长的计算/.idea/微实例1.1圆面积和周长的计算.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例1.1圆面积和周长的计算/微实例1.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例1.2实数绝对值的计算/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例1.2实数绝对值的计算/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例1.2实数绝对值的计算/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例1.2实数绝对值的计算/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例1.2实数绝对值的计算/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例1.2实数绝对值的计算/.idea/微实例1.2实数绝对值的计算.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例1.2实数绝对值的计算/微实例1.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例1.3整数累加/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例1.3整数累加/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例1.3整数累加/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例1.3整数累加/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例1.3整数累加/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例1.3整数累加/.idea/微实例1.3整数累加.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例1.3整数累加/微实例1.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例2.1PM2.5空气质量提醒(1)/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例2.1PM2.5空气质量提醒(1)/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例2.1PM2.5空气质量提醒(1)/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例2.1PM2.5空气质量提醒(1)/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例2.1PM2.5空气质量提醒(1)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例2.1PM2.5空气质量提醒(1)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例2.1PM2.5空气质量提醒(1)/.idea/微实例2.1PM2.5空气质量提醒(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例2.1PM2.5空气质量提醒(1)/微实例2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例2.2PM2.5空气质量提醒(2)/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例2.2PM2.5空气质量提醒(2)/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例2.2PM2.5空气质量提醒(2)/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例2.2PM2.5空气质量提醒(2)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例2.2PM2.5空气质量提醒(2)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例2.2PM2.5空气质量提醒(2)/.idea/微实例2.2PM2.5空气质量提醒(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例2.2PM2.5空气质量提醒(2)/微实例2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例2.3PM2.5空气质量提醒(3)/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例2.3PM2.5空气质量提醒(3)/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例2.3PM2.5空气质量提醒(3)/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例2.3PM2.5空气质量提醒(3)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例2.3PM2.5空气质量提醒(3)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例2.3PM2.5空气质量提醒(3)/.idea/微实例2.3PM2.5空气质量提醒(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例2.3PM2.5空气质量提醒(3)/微实例2.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例3.1身体质量数值BMI(1)/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例3.1身体质量数值BMI(1)/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例3.1身体质量数值BMI(1)/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例3.1身体质量数值BMI(1)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例3.1身体质量数值BMI(1)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例3.1身体质量数值BMI(1)/.idea/微实例3.1身体质量数值BMI(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例3.1身体质量数值BMI(1)/微实例3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例3.2身体质量数值BMI(2)/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例3.2身体质量数值BMI(2)/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例3.2身体质量数值BMI(2)/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例3.2身体质量数值BMI(2)/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例3.2身体质量数值BMI(2)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例3.2身体质量数值BMI(2)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例3.2身体质量数值BMI(2)/.idea/微实例3.2身体质量数值BMI(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例3.2身体质量数值BMI(2)/微实例3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例4.1遍历循环：for语句/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例4.1遍历循环：for语句/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例4.1遍历循环：for语句/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例4.1遍历循环：for语句/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例4.1遍历循环：for语句/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例4.1遍历循环：for语句/.idea/微实例4.1遍历循环：for语句.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例4.1遍历循环：for语句/微实例4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例4.2无限循环：while语句/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例4.2无限循环：while语句/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例4.2无限循环：while语句/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例4.2无限循环：while语句/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例4.2无限循环：while语句/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例4.2无限循环：while语句/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例4.2无限循环：while语句/.idea/微实例4.2无限循环：while语句.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例4.2无限循环：while语句/微实例4.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例4.3循环保留字：break和continue/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例4.3循环保留字：break和continue/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例4.3循环保留字：break和continue/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例4.3循环保留字：break和continue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例4.3循环保留字：break和continue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例4.3循环保留字：break和continue/.idea/微实例4.3循环保留字：break和continue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例4.3循环保留字：break和continue/微实例4.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例5.1random库的使用/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例5.1random库的使用/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例5.1random库的使用/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例5.1random库的使用/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例5.1random库的使用/.idea/微实例5.1random库的使用.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例5.1random库的使用/微实例5.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例6.1蒙特卡罗方法解π值/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例6.1蒙特卡罗方法解π值/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例6.1蒙特卡罗方法解π值/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例6.1蒙特卡罗方法解π值/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例6.1蒙特卡罗方法解π值/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例6.1蒙特卡罗方法解π值/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例6.1蒙特卡罗方法解π值/.idea/微实例6.1蒙特卡罗方法解π值.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例6.1蒙特卡罗方法解π值/微实例6.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.1异常处理：try-except语句/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.1异常处理：try-except语句/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.1异常处理：try-except语句/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.1异常处理：try-except语句/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.1异常处理：try-except语句/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.1异常处理：try-except语句/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.1异常处理：try-except语句/.idea/微实例7.1异常处理：try-except语句.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.1异常处理：try-except语句/微实例7.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.2异常的高级用法/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.2异常的高级用法/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.2异常的高级用法/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.2异常的高级用法/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.2异常的高级用法/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.2异常的高级用法/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.2异常的高级用法/.idea/微实例7.2异常的高级用法.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.2异常的高级用法/微实例7.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.3异常语句与else和finally配合使用/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.3异常语句与else和finally配合使用/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.3异常语句与else和finally配合使用/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.3异常语句与else和finally配合使用/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.3异常语句与else和finally配合使用/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.3异常语句与else和finally配合使用/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.3异常语句与else和finally配合使用/.idea/微实例7.3异常语句与else和finally配合使用.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/微实例7.3异常语句与else和finally配合使用/微实例7.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/电子教案4-1 程序的控制结构.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/第四章习题/4.1猜数游戏/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/第四章习题/4.1猜数游戏/.idea/4.1猜数游戏.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/第四章习题/4.1猜数游戏/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/第四章习题/4.1猜数游戏/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/第四章习题/4.1猜数游戏/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/第四章习题/4.1猜数游戏/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/第四章习题/4.1猜数游戏/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/第四章习题/4.1猜数游戏/4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/第四章习题/4.2统计不同字符个数/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/第四章习题/4.2统计不同字符个数/.idea/4.2统计不同字符个数.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/第四章习题/4.2统计不同字符个数/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/第四章习题/4.2统计不同字符个数/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/第四章习题/4.2统计不同字符个数/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/第四章习题/4.2统计不同字符个数/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/第四章习题/4.2统计不同字符个数/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../第四章程序的控制结构/第四章习题/4.2统计不同字符个数/4.2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2b996zLGFiL20KJVUrUcyDTZoyz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.微实例5.2.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="ef0fb899-5496-4946-ae5d-b811b6ede130" name="更改" comment="" />
+      <created>1704361713500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704361713500</updated>
+      <workItem from="1705616256283" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/5_2$5_2.coverage" NAME="微实例5.2 覆盖结果" MODIFIED="1705616259727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

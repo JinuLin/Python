@@ -1,0 +1,22 @@
+from turtle import *
+
+penup()
+fd(-100)
+pendown()
+pensize(10)
+seth(60)
+fd(200)
+seth(-60)
+fd(200)
+seth(0)
+fd(-200)
+
+seth(60)
+fd(100)
+seth(0)
+fd(100)
+seth(240)
+fd(100)
+seth(-60)
+fd(-100)
+done()
