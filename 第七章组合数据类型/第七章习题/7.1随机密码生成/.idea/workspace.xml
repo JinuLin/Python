@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1df8bd79-da8f-4127-b9da-918ef9be2bfb" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../第三章基本数据类型/微实例1.2浮点型数的类型/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../第八章文件和数据格式化/微实例1.1文件概述/1.1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../第八章文件和数据格式化/电子教案7-1 文件和数据格式化.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第七章文件和数据格式化/微实例1.1文件概述/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.3映射类型/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第七章文件和数据格式化/微实例1.1文件概述/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../../第八章文件和数据格式化/微实例1.1文件概述/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第七章文件和数据格式化/微实例1.1文件概述/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.3映射类型/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第七章文件和数据格式化/微实例1.1文件概述/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.1序列类型/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第七章文件和数据格式化/微实例1.1文件概述/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例2.1列表类型的概念/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第七章文件和数据格式化/微实例1.1文件概述/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../第八章文件和数据格式化/微实例1.1文件概述/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第七章文件和数据格式化/微实例1.1文件概述/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.1序列类型/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第七章文件和数据格式化/微实例1.1文件概述/.idea/微实例1.1文件概述.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../第八章文件和数据格式化/微实例1.1文件概述/.idea/微实例1.1文件概述.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第七章文件和数据格式化/微实例1.1文件概述/1.1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第七章文件和数据格式化/微实例1.1文件概述/微实例1.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../第八章文件和数据格式化/微实例1.1文件概述/微实例1.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第三章基本数据类型/微实例1.2浮点型数的类型/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../第三章基本数据类型/微实例1.2浮点型数的类型/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/图片资料A-2 Python快速参考之random、jieba、datetime库.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../图片资料A-2 Python快速参考之random、jieba、datetime库.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.1序列类型/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.1序列类型/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.1序列类型/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.1序列类型/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.1序列类型/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.3映射类型/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.1序列类型/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.1序列类型/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.1序列类型/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.1序列类型/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.1序列类型/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.2集合类型/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.1序列类型/.idea/微实例1.1序列类型.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.1序列类型/.idea/微实例1.1序列类型.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.1序列类型/微实例1.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.1序列类型/微实例1.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.2集合类型/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.2集合类型/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.2集合类型/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.2集合类型/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.2集合类型/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.2集合类型/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.2集合类型/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.2集合类型/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.2集合类型/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.2集合类型/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.2集合类型/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.2集合类型/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.2集合类型/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.3映射类型/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.2集合类型/.idea/微实例1.2集合类型.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.2集合类型/.idea/微实例1.2集合类型.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.2集合类型/微实例1.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.2集合类型/微实例1.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.3映射类型/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例2.1列表类型的概念/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.3映射类型/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例2.1列表类型的概念/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.3映射类型/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例2.1列表类型的概念/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.3映射类型/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.3映射类型/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.3映射类型/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.3映射类型/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.3映射类型/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例2.1列表类型的概念/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.3映射类型/.idea/微实例1.3映射类型.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.3映射类型/.idea/微实例1.3映射类型.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例1.3映射类型/微实例1.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例1.3映射类型/微实例1.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例2.1列表类型的概念/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例2.2列表类型的操作/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例2.1列表类型的概念/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例2.2列表类型的操作/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例2.1列表类型的概念/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例2.2列表类型的操作/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例2.1列表类型的概念/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例2.2列表类型的操作/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例2.1列表类型的概念/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例2.1列表类型的概念/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例2.1列表类型的概念/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例2.2列表类型的操作/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例2.1列表类型的概念/.idea/微实例2.1列表类型的概念.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例2.1列表类型的概念/.idea/微实例2.1列表类型的概念.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例2.1列表类型的概念/微实例2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例2.1列表类型的概念/微实例2.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例2.2列表类型的操作/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例3.1基本统计值计算/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例2.2列表类型的操作/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例2.2列表类型的操作/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例2.2列表类型的操作/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例3.1基本统计值计算/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例2.2列表类型的操作/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例3.1基本统计值计算/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例2.2列表类型的操作/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../第八章文件和数据格式化/微实例1.1文件概述/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例2.2列表类型的操作/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例2.2列表类型的操作/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例2.2列表类型的操作/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例3.1基本统计值计算/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例2.2列表类型的操作/.idea/微实例2.2列表类型的操作.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例2.2列表类型的操作/.idea/微实例2.2列表类型的操作.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例2.2列表类型的操作/微实例2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例2.2列表类型的操作/微实例2.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例3.1基本统计值计算/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例4.2字典类型的操作/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例3.1基本统计值计算/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例4.1字典类型的概念/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例3.1基本统计值计算/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例4.1字典类型的概念/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例3.1基本统计值计算/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例3.1基本统计值计算/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例3.1基本统计值计算/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例3.1基本统计值计算/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例3.1基本统计值计算/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例4.1字典类型的概念/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例3.1基本统计值计算/.idea/微实例3.1基本统计值计算.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例3.1基本统计值计算/.idea/微实例3.1基本统计值计算.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例3.1基本统计值计算/微实例3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例3.1基本统计值计算/微实例3.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例4.1字典类型的概念/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例4.1字典类型的概念/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例4.1字典类型的概念/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例4.2字典类型的操作/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例4.1字典类型的概念/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例4.2字典类型的操作/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例4.1字典类型的概念/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例4.1字典类型的概念/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例4.1字典类型的概念/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例4.1字典类型的概念/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例4.1字典类型的概念/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例4.2字典类型的操作/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例4.1字典类型的概念/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例4.1字典类型的概念/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例4.1字典类型的概念/.idea/微实例4.1字典类型的概念.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例4.1字典类型的概念/.idea/微实例4.1字典类型的概念.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例4.1字典类型的概念/微实例4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例4.1字典类型的概念/微实例4.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例4.2字典类型的操作/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例5.1jieba库概述/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例4.2字典类型的操作/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例5.1jieba库概述/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例4.2字典类型的操作/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例5.1jieba库概述/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例4.2字典类型的操作/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例4.2字典类型的操作/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例4.2字典类型的操作/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例4.2字典类型的操作/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例4.2字典类型的操作/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例5.1jieba库概述/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例4.2字典类型的操作/.idea/微实例4.2字典类型的操作.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例4.2字典类型的操作/.idea/微实例4.2字典类型的操作.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例4.2字典类型的操作/微实例4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例4.2字典类型的操作/微实例4.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例5.1jieba库概述/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例5.2jieba库解析/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例5.1jieba库概述/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例5.2jieba库解析/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例5.1jieba库概述/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例5.2jieba库解析/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例5.1jieba库概述/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例5.1jieba库概述/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例5.1jieba库概述/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例5.1jieba库概述/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例5.1jieba库概述/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例5.2jieba库解析/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例5.1jieba库概述/.idea/微实例5.1jieba库概述.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例5.1jieba库概述/.idea/微实例5.1jieba库概述.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例5.1jieba库概述/微实例5.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例5.1jieba库概述/微实例5.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例5.2jieba库解析/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.1Hamlet英文词频统计/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例5.2jieba库解析/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例5.2jieba库解析/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例5.2jieba库解析/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.1Hamlet英文词频统计/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例5.2jieba库解析/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.1Hamlet英文词频统计/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例5.2jieba库解析/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例5.2jieba库解析/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例5.2jieba库解析/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例5.2jieba库解析/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例5.2jieba库解析/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.1Hamlet英文词频统计/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例5.2jieba库解析/.idea/微实例5.2jieba库解析.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例5.2jieba库解析/.idea/微实例5.2jieba库解析.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例5.2jieba库解析/微实例5.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例5.2jieba库解析/微实例5.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.1Hamlet英文词频统计/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.2带排除的Hamlet英文词频统计/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.1Hamlet英文词频统计/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.2带排除的Hamlet英文词频统计/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.1Hamlet英文词频统计/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.2带排除的Hamlet英文词频统计/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.1Hamlet英文词频统计/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.1Hamlet英文词频统计/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.1Hamlet英文词频统计/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.1Hamlet英文词频统计/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.1Hamlet英文词频统计/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.2带排除的Hamlet英文词频统计/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.1Hamlet英文词频统计/.idea/微实例6.1Hamlet英文词频统计.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.1Hamlet英文词频统计/.idea/微实例6.1Hamlet英文词频统计.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.1Hamlet英文词频统计/Hamlet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.1Hamlet英文词频统计/Hamlet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.1Hamlet英文词频统计/微实例6.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.1Hamlet英文词频统计/微实例6.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.2带排除的Hamlet英文词频统计/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.3三国演义中文词频统计/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.2带排除的Hamlet英文词频统计/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.3三国演义中文词频统计/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.2带排除的Hamlet英文词频统计/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.3三国演义中文词频统计/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.2带排除的Hamlet英文词频统计/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.2带排除的Hamlet英文词频统计/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.2带排除的Hamlet英文词频统计/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.2带排除的Hamlet英文词频统计/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.2带排除的Hamlet英文词频统计/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.3三国演义中文词频统计/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.2带排除的Hamlet英文词频统计/.idea/微实例6.2带排除的Hamlet英文词频统计.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.2带排除的Hamlet英文词频统计/.idea/微实例6.2带排除的Hamlet英文词频统计.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.2带排除的Hamlet英文词频统计/Hamlet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.2带排除的Hamlet英文词频统计/Hamlet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.2带排除的Hamlet英文词频统计/微实例6.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.2带排除的Hamlet英文词频统计/微实例6.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.3三国演义中文词频统计/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.4三国演义中文人名词频率统计/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.3三国演义中文词频统计/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.4三国演义中文人名词频率统计/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.3三国演义中文词频统计/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.4三国演义中文人名词频率统计/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.3三国演义中文词频统计/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.3三国演义中文词频统计/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.3三国演义中文词频统计/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.3三国演义中文词频统计/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.3三国演义中文词频统计/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.4三国演义中文人名词频率统计/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.3三国演义中文词频统计/.idea/微实例6.3三国演义中文词频统计.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.3三国演义中文词频统计/.idea/微实例6.3三国演义中文词频统计.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.3三国演义中文词频统计/三国演义.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.3三国演义中文词频统计/三国演义.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.3三国演义中文词频统计/微实例6.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.3三国演义中文词频统计/微实例6.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.4三国演义中文人名词频率统计/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例7.1Python之禅/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.4三国演义中文人名词频率统计/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例7.1Python之禅/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.4三国演义中文人名词频率统计/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例7.1Python之禅/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.4三国演义中文人名词频率统计/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.4三国演义中文人名词频率统计/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.4三国演义中文人名词频率统计/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.4三国演义中文人名词频率统计/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.4三国演义中文人名词频率统计/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例7.1Python之禅/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.4三国演义中文人名词频率统计/.idea/微实例6.4三国演义中文人名词频率统计.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.4三国演义中文人名词频率统计/.idea/微实例6.4三国演义中文人名词频率统计.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.4三国演义中文人名词频率统计/三国演义.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.4三国演义中文人名词频率统计/三国演义.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例6.4三国演义中文人名词频率统计/微实例6.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例6.4三国演义中文人名词频率统计/微实例6.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例7.1Python之禅/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例7.2Python之禅代码解析/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例7.1Python之禅/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例7.2Python之禅代码解析/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例7.1Python之禅/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例7.2Python之禅代码解析/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例7.1Python之禅/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例7.1Python之禅/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例7.1Python之禅/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例7.1Python之禅/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例7.1Python之禅/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例7.2Python之禅代码解析/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例7.1Python之禅/.idea/微实例7.1Python之禅.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例7.1Python之禅/.idea/微实例7.1Python之禅.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例7.1Python之禅/微实例7.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例7.1Python之禅/微实例7.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例7.2Python之禅代码解析/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例7.2Python之禅代码解析/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例7.2Python之禅代码解析/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例7.2Python之禅代码解析/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例7.2Python之禅代码解析/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例7.2Python之禅代码解析/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例7.2Python之禅代码解析/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例7.2Python之禅代码解析/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../第八章文件和数据格式化/微实例1.1文件概述/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例7.2Python之禅代码解析/.idea/微实例7.2Python之禅代码解析.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例7.2Python之禅代码解析/.idea/微实例7.2Python之禅代码解析.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例7.2Python之禅代码解析/this.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例7.2Python之禅代码解析/this.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/微实例7.2Python之禅代码解析/微实例7.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../微实例7.2Python之禅代码解析/微实例7.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/电子教案6-1 组合数据类型.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../电子教案6-1 组合数据类型.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.1随机密码生成/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.1随机密码生成/.idea/6.1随机密码生成.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.1随机密码生成/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.1随机密码生成/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.1随机密码生成/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.1随机密码生成/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.1随机密码生成/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7.2重复元素判定/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.1随机密码生成/6.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/7.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.2重复元素判定/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.2重复元素判定/.idea/6.2重复元素判定.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.2重复元素判定/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.2重复元素判定/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.2重复元素判定/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.2重复元素判定/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.2重复元素判定/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7.3重复元素判断简化/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.2重复元素判定/6.2重复元素判定.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7.2重复元素判定/7.2重复元素判定.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.3重复元素判断简化/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.3重复元素判断简化/.idea/6.3重复元素判断简化.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.3重复元素判断简化/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.3重复元素判断简化/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.3重复元素判断简化/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.3重复元素判断简化/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.3重复元素判断简化/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7.4文本字符分析/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.3重复元素判断简化/6.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7.3重复元素判断简化/7.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.4文本字符分析/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.4文本字符分析/.idea/6.4文本字符分析.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.4文本字符分析/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.4文本字符分析/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.4文本字符分析/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.4文本字符分析/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.4文本字符分析/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7.5生日悖论分析/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.4文本字符分析/6.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7.4文本字符分析/7.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.5生日悖论分析/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../第八章文件和数据格式化/微实例1.1文件概述/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.5生日悖论分析/.idea/6.5生日悖论分析.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.5生日悖论分析/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../第八章文件和数据格式化/微实例1.1文件概述/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.5生日悖论分析/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../第八章文件和数据格式化/微实例1.1文件概述/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.5生日悖论分析/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.5生日悖论分析/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.5生日悖论分析/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7.6《红楼梦》人物统计/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.5生日悖论分析/6.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7.5生日悖论分析/7.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.6《红楼梦》人物统计/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.6《红楼梦》人物统计/.idea/6.6《红楼梦》人物统计.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.6《红楼梦》人物统计/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.6《红楼梦》人物统计/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.6《红楼梦》人物统计/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.6《红楼梦》人物统计/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.6《红楼梦》人物统计/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.6《红楼梦》人物统计/6.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7.6《红楼梦》人物统计/7.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第六章组合数据类型/第六章习题/6.6《红楼梦》人物统计/红楼梦.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../7.6《红楼梦》人物统计/红楼梦.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2oa6Ig9hmbMLojnnLMmBaoxNpPF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.7.1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Pythonxiangmu/Python课程/第七章组合数据类型/第七章习题/7.2重复元素判定",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "Code Search",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="1df8bd79-da8f-4127-b9da-918ef9be2bfb" name="更改" comment="" />
+      <created>1731095260423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731095260423</updated>
+      <workItem from="1731095261481" duration="113000" />
+      <workItem from="1731095377376" duration="429000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/7_1$7_1.coverage" NAME="7.1 覆盖结果" MODIFIED="1731095361256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
