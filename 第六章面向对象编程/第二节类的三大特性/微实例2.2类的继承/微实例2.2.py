@@ -45,6 +45,30 @@ s = Square('黄色')
 s.description()
 
 """
+父类的私有属性和私有方法不会被子类继承，更不能被子类访问。
+class Grandpa(object):
+    def __init__(self, color):
+        self.__color = color
+
+    def description(self):
+        print('我的颜色是%s的图形' % self.__color)
+
+    def __description(self):
+        print(self.__color)
+
+class Square(Grandpa):
+    def test(self):
+        print(self.__color)
+        self.__description()
+    
+
+
+s = Square('黄色')
+s.description()
+s.test()
+"""
+
+"""
 多继承是指子类从多个父类继承属性和方法。
 语法为：class 子类名(父类名1,父类名2,父类名3,...):
 """
