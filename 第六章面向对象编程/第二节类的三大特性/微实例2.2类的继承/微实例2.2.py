@@ -28,7 +28,11 @@ class Square(Grandpa):
 s = Square('黄色')
 s.description()
 """
-子类没有定义任何属性和方法，但是它继承了父类，所以能调用description
+子类没有定义任何属性和方法，但是它继承了父类，所以能调用description。
+"""
+"""
+子类可以根据需要改变继承自父类的方法，即重写父类方法。
+
 """
 
 """
