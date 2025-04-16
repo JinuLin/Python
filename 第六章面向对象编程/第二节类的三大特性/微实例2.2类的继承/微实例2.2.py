@@ -20,6 +20,7 @@ class Grandpa(object):  # 如果定义类的时候没有写父类，默认继承
 
 
 # 定义子类
+
 class Square(Grandpa):
     pass
 
@@ -39,6 +40,9 @@ class Square(Grandpa):
     def description(self):
         print('我的颜色是%s,我是正方形' % self.color)
 
+
+s = Square('黄色')
+s.description()
 
 """
 多继承是指子类从多个父类继承属性和方法。
