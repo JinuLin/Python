@@ -34,6 +34,12 @@ s.description()
 子类可以根据需要改变继承自父类的方法，即重写父类方法。
 """
 
+
+class Square(Grandpa):
+    def description(self):
+        print('我的颜色是%s,我是正方形' % self.color)
+
+
 """
 多继承是指子类从多个父类继承属性和方法。
 语法为：class 子类名(父类名1,父类名2,父类名3,...):
