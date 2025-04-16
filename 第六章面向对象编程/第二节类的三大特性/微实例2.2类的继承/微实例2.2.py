@@ -46,6 +46,9 @@ s.description()
 
 """
 父类的私有属性和私有方法不会被子类继承，更不能被子类访问。
+"""
+"""
+例如以下代码：
 class Grandpa(object):
     def __init__(self, color):
         self.__color = color
@@ -56,19 +59,66 @@ class Grandpa(object):
     def __description(self):
         print(self.__color)
 
+
 class Square(Grandpa):
     def test(self):
         print(self.__color)
         self.__description()
-    
 
 
 s = Square('黄色')
 s.description()
 s.test()
+
+会有报错：
+Traceback (most recent call last):
+    s.test()
+    ~~~~~~^^
+    print(self.__color)
+          ^^^^^^^^^^^^
+AttributeError: 'Square' object has no attribute '_Square__color'
+说明：父类的私有属性和私有方法不会被子类继承，更不能被子类访问。
 """
 
 """
 多继承是指子类从多个父类继承属性和方法。
 语法为：class 子类名(父类名1,父类名2,父类名3,...):
+"""
+#  定义马的类
+class Horse(object):
+    @staticmethod
+    def run():
+        print('-----我会跑-----')
+
+    @staticmethod
+    def eat():
+        print('-----我会吃草-----')
+#  定义鸟的类
+class Bird(object):
+    @staticmethod
+    def fly():
+        print('-----我会飞-----')
+
+    @staticmethod
+    def eat():
+        print('-----我会吃虫-----')
+
+#  定义飞马的类
+class FlyHorse(Horse, Bird):
+    pass
+
+fh = FlyHorse()
+fh.run()
+fh.fly()
+
+"""
+如果多继承性父类中有同名方法时，在Python 3中，子类先继承哪个类会先调用哪个类的方法。
+"""
+fh.eat()
+"""
+如果当前父类非常复杂，Python会使用mro算法找到合适的类，来确定执行哪个类。
+"""
+
+"""
+
 """
