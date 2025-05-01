@@ -12,17 +12,17 @@
 
 # 定义父类
 class Grandpa(object):  # 如果定义类的时候没有写父类，默认继承object类
-    def __init__(self, color):
-        self.color = color
+	def __init__(self, color):
+		self.color = color
 
-    def description(self):
-        print('我的颜色是%s' % self.color)
+	def description(self):
+		print('我的颜色是%s' % self.color)
 
 
 # 定义子类
 
 class Square(Grandpa):
-    pass
+	pass
 
 
 # 创建子类对象
@@ -37,8 +37,8 @@ s.description()
 
 
 class Square(Grandpa):
-    def description(self):
-        print('我的颜色是%s,我是正方形' % self.color)
+	def description(self):
+		print('我的颜色是%s,我是正方形' % self.color)
 
 
 s = Square('黄色')
@@ -50,20 +50,20 @@ s.description()
 """
 例如以下代码：
 class Grandpa(object):
-    def __init__(self, color):
-        self.__color = color
+	def __init__(self, color):
+		self.__color = color
 
-    def description(self):
-        print('我的颜色是%s的图形' % self.__color)
+	def description(self):
+		print('我的颜色是%s的图形' % self.__color)
 
-    def __description(self):
-        print(self.__color)
+	def __description(self):
+		print(self.__color)
 
 
 class Square(Grandpa):
-    def test(self):
-        print(self.__color)
-        self.__description()
+	def test(self):
+		print(self.__color)
+		self.__description()
 
 
 s = Square('黄色')
@@ -72,10 +72,10 @@ s.test()
 
 会有报错：
 Traceback (most recent call last):
-    s.test()
-    ~~~~~~^^
-    print(self.__color)
-          ^^^^^^^^^^^^
+	s.test()
+	~~~~~~^^
+	print(self.__color)
+		  ^^^^^^^^^^^^
 AttributeError: 'Square' object has no attribute '_Square__color'
 说明：父类的私有属性和私有方法不会被子类继承，更不能被子类访问。
 """
@@ -86,26 +86,26 @@ AttributeError: 'Square' object has no attribute '_Square__color'
 """
 #  定义马的类
 class Horse(object):
-    @staticmethod
-    def run():
-        print('-----我会跑-----')
+	@staticmethod
+	def run():
+		print('-----我会跑-----')
 
-    @staticmethod
-    def eat():
-        print('-----我会吃草-----')
+	@staticmethod
+	def eat():
+		print('-----我会吃草-----')
 #  定义鸟的类
 class Bird(object):
-    @staticmethod
-    def fly():
-        print('-----我会飞-----')
+	@staticmethod
+	def fly():
+		print('-----我会飞-----')
 
-    @staticmethod
-    def eat():
-        print('-----我会吃虫-----')
+	@staticmethod
+	def eat():
+		print('-----我会吃虫-----')
 
 #  定义飞马的类
 class FlyHorse(Horse, Bird):
-    pass
+	pass
 
 fh = FlyHorse()
 fh.run()
@@ -120,5 +120,27 @@ fh.eat()
 """
 
 """
-子类继承自父类，父类则派生子类
+子类继承自父类,父类则派生出子类。
+在派生过程中，子类可以有自身特有的属性和方法，这些新增的属性与方法也叫派生属性和派生方法。
+比如针对一个正方形，它有边长，可以求面积。
+那么由 Graph派生出的 Square类，就可以增加边长属性length和求面积的方法area()。 
 """
+#定义父类
+class Graph(object):
+	def __init__(self,color):
+		self.color = color
+	def description(self):
+		print("我是%s的图形" % self.color)
+#定义子类
+class Square(Graph):
+	def __init__(self,color,length):
+		super().__init__(color)
+		self.length = length
+	def description(self):
+		print("我是%s的正方形" % self.color)
+	def area(self):
+		print("我的面积是%s"%(self.length*self.length))
+#创建子类对象
+s = Square("黄色",10)
+s.description()
+s.area()
