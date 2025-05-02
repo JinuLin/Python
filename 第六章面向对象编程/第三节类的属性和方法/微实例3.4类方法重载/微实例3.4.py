@@ -35,8 +35,8 @@ class Addition:
 		y = len(obj.data)
 		m =x if x > y else y
 		ls = []
-		for i in range(m):
-			ls.append(self.data[i] + obj.data[i])
+		for n in range(m):
+			ls.append(self.data[n] + obj.data[n])
 		#返回包含新列表的实例对象
 		return Addition(ls[:])
 #创建实例对象并初始化
