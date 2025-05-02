@@ -22,7 +22,7 @@ __ge__、__gt__ 	大于等于测试、大于测试 	x>=y、x>y
 __le__、__lt__ 	小于等于测试、小于测试 	x<=y、x<y
 """
 """
-1. 算术运算符重载
+1.算术运算符重载
 算术运算符重载可以让自定义的类对象进行算术运算操作。
 """
 #加法运算符重载
@@ -45,3 +45,18 @@ ls2 = Addition([11,22,33])
 #执行加法运算
 ls_sum = ls1 + ls2
 print(ls_sum.data)
+
+"""
+2.索引和分片重载
+索引和分片重载可以让自定义的类对象进行索引和分片操作。 
+"""
+class Index:
+	data = [1,2,3,4,5]
+	def __getitem__(self,item):
+		return self.data[item]
+index = Index()
+print(index[0])     	#索引返回单个值
+print(index[:])     	#分片返回全部的值
+print(index[:2])    	#分片返回部分值
+for i in index:    	#for循环迭代
+	print(i)
