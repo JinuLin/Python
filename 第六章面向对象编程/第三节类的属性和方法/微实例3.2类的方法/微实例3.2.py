@@ -14,7 +14,7 @@ class Person(object):
 	count = 0       #类属性
 	@classmethod    #类方法
 	def display_count(cls):
-		print ("总人数为%d"%(cls.count))
+		print ("总人数为%d" % cls.count)
 	def __init__(self,name):    #实例方法
 		self.name = name        #实例属性
 		Person.count = Person.count + 1     #修改类属性值
