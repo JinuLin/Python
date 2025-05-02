@@ -60,3 +60,27 @@ print(index[:])     	#分片返回全部的值
 print(index[:2])    	#分片返回部分值
 for i in index:    	#for循环迭代
 	print(i)
+
+"""
+3. 打印转换重载
+重载__repr__()和__str__()方法可以定义对象转换为字符串的形式，
+在执行print、str、repr以及交互模式下直接显示对象时,会调用__repr__()和__str__()方法。
+"""
+class PrintTest:
+	data_one = 100
+
+	def __init__(self):
+		self.data_two = None
+
+	def set(self,number):
+		self.data_two = number
+	#重载方法
+	def __str__(self):
+		#返回自定义的字符串
+		return "data_one = %s;data_two = 			%s"%(self.data_one,self.data_two)
+#创建实例对象
+pt =PrintTest()
+#调用方法给属性赋值，并创建属性
+pt.set(200)          
+print(pt)           	#调用__str__()方法进行转换
+print(str(pt))     	#调用__str__()进行转换
