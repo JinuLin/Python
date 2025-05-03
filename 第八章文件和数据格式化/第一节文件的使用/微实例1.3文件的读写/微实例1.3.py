@@ -1,4 +1,4 @@
-# 微实例6.1.3文件的读写
+# 微实例8.1.3文件的读写
 """
 根据打开方式不同可以对文件进行相应的读写操作，Python提供4个常用的文件内容读取方法
 <file>.readall() 读入整个文件内容，返回一个字符串或字节流*
@@ -38,6 +38,7 @@ name = input("请输入要写入的文件: ")  # 输入文件名1.3test.txt
 fo = open(name, "w+")
 ls = ["唐诗", "宋词", "元曲"]
 fo.writelines(ls)
+# fo.seek(0)添加seek函数，将文件指针移到文件开头，可以显示文件内容
 for line in fo:
     print(line)
 fo.close()
