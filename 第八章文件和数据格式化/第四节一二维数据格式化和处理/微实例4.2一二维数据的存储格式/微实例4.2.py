@@ -22,6 +22,8 @@
 """
 """
 price2016.csv采用了CSV格式储存
+CSV格式存储的文件一般采用.csv为扩展名，可以通过Windows平台上的记事本或微软Office Excel工具打开，
+也可以在其他操作系统平台上用文本编辑工具打开。
 """
 # 打开并逐行读取文件
 with open('price2016.csv', 'r', encoding='utf-8') as file:
