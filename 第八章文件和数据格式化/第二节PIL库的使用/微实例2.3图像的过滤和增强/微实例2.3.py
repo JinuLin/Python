@@ -1,7 +1,8 @@
 # 微实例8.2.3图像的过滤和增强
 from PIL import Image
-from PIL import ImageFilter
 from PIL import ImageEnhance
+from PIL import ImageFilter
+
 """
 PIL库的ImageFilter类和ImageEnhance类提供了过滤图像和增强图像的方法
 ImageFilter.BLUR 图像的模糊效果
@@ -39,4 +40,4 @@ ImageEnhance.Sharpness(im)：调整图像的锐度
 """
 im = Image.open('birdnest.jpg')
 om = ImageEnhance.Contrast(im)
-om.enhance(20).save('birdnestEnContrast.jpg')
+om.enhance(20).save('birdnestEnContrast.jpg')  # 增强图像的对比度为初始的20倍。
