@@ -12,3 +12,19 @@ print("金牛座的字符♉Unicode的值是：" + str(ord("♉")))
 
 print(hex(255))
 print(oct(-255))
+"""
+字符串操作含义：
++：连接
+*：重复
+<string>[ ]：索引
+<string>[ : ]：剪切
+len(<string>)：长度
+<string>.upper()：字符串中字母大写
+<string>.lower()：字符串中字母小写
+<string>.strip()：去两边空格及去指定字符
+<string>.split()：按指定字符分割字符串为数组
+<string>.join()：连接两个字符串序列
+<string>.find()：搜索指定字符串
+<string>.replace()：字符串替换
+for <var> in <string>：字符串迭代
+"""
