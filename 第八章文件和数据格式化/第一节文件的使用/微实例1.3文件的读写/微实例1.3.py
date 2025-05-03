@@ -18,7 +18,7 @@ fo.close()
 """
 遍历文件的所有行可以直接这样完成
 如果程序需要逐行处理文件内容，建议采用这种代码格式：
-fo = open(fname, "r")
+fo = open(name, "r")
 for line in fo:
     # 处理一行数据
 fo.close()
