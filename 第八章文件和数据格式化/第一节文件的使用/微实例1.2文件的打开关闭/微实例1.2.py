@@ -17,10 +17,10 @@ open()函数提供7种基本的打开模式：
 't' 文本文件模式，默认值
 '+' 与r/w/x/a一同使用，在原功能基础上增加同时读写功能
 """
+textfile = open('1.2.txt', 'r')  # 打开文件
+print(textfile)  # 打印文件对象
 """
 文件使用结束后要使用close()方法关闭，释放文件的使用授权，该方法的使用如下：
 <变量名>.close
 """
-textfile = open('1.2.txt', 'r')  # 打开文件
-print(textfile)  # 打印文件对象
 textfile.close()  # 关闭文件
