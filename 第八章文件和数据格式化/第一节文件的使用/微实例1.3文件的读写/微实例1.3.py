@@ -34,7 +34,7 @@ Python提供3个与文件内容写入有关的方法
 <file>.writelines(lines) 将一个元素为字符串的列表写入文件
 <file>.seek(offset) 改变当前文件操作指针的位置，offset的值：0：文件开头； 1: 当前位置； 2: 文件结尾
 """
-name = input("请输入要写入的文件: ")
+name = input("请输入要写入的文件: ") #  输入文件名1.3s.txt
 fo = open(name, "w+")
 ls = ["唐诗", "宋词", "元曲"]
 fo.writelines(ls)
