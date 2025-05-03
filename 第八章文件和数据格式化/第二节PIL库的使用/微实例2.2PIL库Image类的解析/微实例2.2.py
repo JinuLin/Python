@@ -58,3 +58,25 @@ im = Image.open("birdnest.jpg")
 im.save("thumbnail.png")
 im.thumbnail((128, 128))
 im.save("birdnestTN.jpg", "JPEG")
+
+"""
+Image类可以缩放和旋转图像，其中，rotate()方法以逆时针旋转的角度值作为参数来旋转图像。
+Image.resize(size)：按size大小调整图像，生成副本
+Image.rotate(angle)：按angle角度旋转图像，生成副本
+"""
+"""
+Image类能够对每个像素点或者一幅RGB图像的每个通道单独进行操作，
+split()方法能够将RGB图像各颜色通道提取出来，
+merge()方法能够将各独立通道再合成一幅新的图像。
+Image.point(func)：根据函数func功能对每个元素进行运算，返回图像副本
+Image.split()：提取RGB图像的每个颜色通道，返回图像副本
+Image.merge(mode，bands)：合并通道 ，采用mode色彩，bands是新色的色彩通道
+Image.blend(im1,im2,alpha)：将两幅图片im1和im2按照如下公式插值后生成新的图像：im1 * (1.0-alpha) + im2 * alpha
+"""
+"""
+图像的颜色交换
+"""
+im = Image.open("birdnest.jpg")
+r, g, b = im.split()
+om = Image.merge("RGB", (b, g, r))
+om.save('birdnestBGR.jpg')
