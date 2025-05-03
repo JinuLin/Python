@@ -16,3 +16,10 @@ JSON格式表达键值对<key, value>的基本格式如下，键值对都保存�
 方括号用于保存键值对数据组成的数组。
 已学生数据统计为例：
 """
+
+file_path = "scores.json"
+
+# 直接读取文件内容并打印
+with open(file_path, "r", encoding="utf-8") as f:
+    print("\n学生成绩单:")
+    print(f.read())
