@@ -55,6 +55,6 @@ format：保存文件格式，默认为原格式
 搭配open()和save()，可以实现格式转换
 """
 im = Image.open("birdnest.jpg")
-im.save("thumbnail.png")
+# im.save("thumbnail.png")
 im.thumbnail((128, 128))
-im.save("birdnestTN","JPEG")
+im.save("birdnestTN.jpg", "JPEG")
