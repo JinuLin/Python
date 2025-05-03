@@ -80,3 +80,13 @@ im = Image.open("birdnest.jpg")
 r, g, b = im.split()
 om = Image.merge("RGB", (b, g, r))
 om.save('birdnestBGR.jpg')
+
+"""
+操作图像的每个像素点需要通过函数实现，采用lambda函数和point()方法搭配使用
+"""
+im = Image.open('birdnest.jpg')  # 打开鸟巢文件
+r, g, b = im.split()  # 获得RGB通道数据
+new_g = g.point(lambda i: i * 0.9)  # 将G通道颜色值变为原来的0.9倍
+newb = b.point(lambda i: i < 100)  # 选择B通道值低于100的像素点
+om = Image.merge(im.mode, (r, new_g, newb))  # 将3个通道合形成新图像
+om.save('birdnestMerge.jpg')  # 输出图片
