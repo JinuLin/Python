@@ -6,6 +6,11 @@ CSV文件的每一行是一维数据，可以使用Python中的列表类型表�
 fo = open("price2016.csv", "r")
 ls = []
 for line in fo:
+    """
+    需要注意，以split(",")方法从CSV文件中获得内容时，
+    每行最后一个元素后面包含了一个换行符（"\n"）。
+    对于数据的表达和使用来说，这个换行符是多余的，可以通过使用字符串的replace()方法将其去掉
+    """
     line = line.replace("\n", "")
     ls.append(line.split(","))
 print(ls)
