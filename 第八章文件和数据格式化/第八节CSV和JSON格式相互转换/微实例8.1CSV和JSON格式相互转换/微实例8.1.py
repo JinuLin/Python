@@ -8,14 +8,30 @@ import json
 """
 将CSV转换成JSON格式
 """
-fr = open("price2016.csv", "r")
+fr = open("price2016.csv", "r", encoding='utf-8')  # 确保文件编码为utf-8
 ls = []
 for line in fr:
     line = line.replace("\n", "")
     ls.append(line.split(','))
 fr.close()
-fw = open("price2016.json", "w")
+fw = open("price2016.json", "w", encoding='utf-8')
 for i in range(1, len(ls)):
     ls[i] = dict(zip(ls[0], ls[i]))
-json.dump(ls[1:], fw, sort_keys=True, indent=4)
+    # zip()是一个内置函数，可以将两个长度相等的列表组合成一个关系对
+json.dump(ls[1:], fw, sort_keys=True, indent=4, ensure_ascii=False)
+#  ensure_ascii=False表示输出的json格式为中文，否则为ASCII码
+fw.close()
+
+"""
+将JSON转换成CSV格式
+"""
+fr = open("price2016.json", "r", encoding='utf-8')
+ls = json.load(fr)
+data = [list(ls[0].keys())]
+for item in ls:
+    data.append(list(item.values()))
+fr.close()
+fw = open("price2016_from_json.csv", "w", encoding='utf-8')
+for item in data:
+    fw.write(",".join(item) + "\n")
 fw.close()
