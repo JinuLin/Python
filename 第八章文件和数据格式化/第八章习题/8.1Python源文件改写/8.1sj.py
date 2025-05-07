@@ -1,4 +1,4 @@
-EF example(A, B):
+def example(A, B):
     X = A + B
     Y = X * 2
     if Y > 10:
@@ -7,8 +7,8 @@ EF example(A, B):
 
 
 class DEMO:
-    def __init__(SELF, NAME):
-        SELF.NAME = NAME
+    def __init__(self, NAME):
+        self.name = NAME
 
-    def show(SELF):
+    def show(self):
         print(F"NAME: {self.name.lower()}")
