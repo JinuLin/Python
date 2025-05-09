@@ -15,6 +15,6 @@
 textFile = open("1.1.txt", "rt")  # t表示文本文件方式
 print(textFile.readline())
 textFile.close()
-binFile = open("1.1.txt", "rb")  # r表示二进制文件方式
+binFile = open("1.1.txt", "rb")  # b表示二进制文件方式
 print(binFile.readline()) # 会被解析成字节流
 binFile.close()
