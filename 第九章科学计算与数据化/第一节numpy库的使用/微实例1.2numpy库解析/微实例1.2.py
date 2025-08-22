@@ -23,4 +23,4 @@ ndarray.flat 数组元素的迭代器
 import numpy as np
 
 a = np.ones((4, 5))
-print(a.ndim)
+print(a)
