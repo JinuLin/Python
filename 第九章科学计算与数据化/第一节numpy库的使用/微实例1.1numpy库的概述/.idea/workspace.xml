@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b68cbac-7f3c-4180-9829-305c3151bf2a" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/../微实例1.1num库的概述/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../微实例1.1num库的概述/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../微实例1.1num库的概述/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../微实例1.1num库的概述/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../微实例1.1num库的概述/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../微实例1.1num库的概述/.idea/微实例1.1num库的概述.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/微实例1.1numpy库的概述.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../微实例1.1num库的概述/微实例1.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/微实例1.1.py" afterDir="false" />
-    </list>
+    <list default="true" id="1b68cbac-7f3c-4180-9829-305c3151bf2a" name="更改" comment="Python课程" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,12 +65,34 @@
       <option name="presentableId" value="Default" />
       <updated>1755823474325</updated>
       <workItem from="1755823475369" duration="3000" />
-      <workItem from="1755823488929" duration="1219000" />
+      <workItem from="1755823488929" duration="1529000" />
     </task>
+    <task id="LOCAL-00001" summary="Python课程">
+      <option name="closed" value="true" />
+      <created>1755825107100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755825107100</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Python课程">
+      <option name="closed" value="true" />
+      <created>1755825152729</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755825152729</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="Python课程" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python课程" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/1_1numpy$1_1.coverage" NAME="微实例1.1 覆盖结果" MODIFIED="1755824509521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
