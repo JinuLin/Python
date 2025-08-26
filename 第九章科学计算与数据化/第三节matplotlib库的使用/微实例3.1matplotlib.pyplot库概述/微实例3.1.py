@@ -78,4 +78,3 @@ plt.imshow 在axes上显示图像
 plt.imsave() 保存数组为图像文件
 plt.imread() 从图像文件中读取数组
 """
-

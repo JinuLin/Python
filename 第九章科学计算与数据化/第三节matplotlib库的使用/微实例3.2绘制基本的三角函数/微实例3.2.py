@@ -26,9 +26,10 @@ plt.stem(x,y,linefmt,markerfmt,basefmt) 绘制曲线每个点到水平轴线的�
 plt.plot_date() 绘制数据日期
 plt.plotfile() 绘制数据后写入文件
 """
-import numpy as np
 import matplotlib.pyplot as plt
+import numpy as np
+
 x = np.linspace(0, 6, 100)
-y = np.cos(2*np.pi*x) * np.exp(-x) +0.8
-plt.plot(x, y, "k", color="r", linewidth=3,linestyle="-")
+y = np.cos(2 * np.pi * x) * np.exp(-x) + 0.8
+plt.plot(x, y, "k", color="r", linewidth=3, linestyle="-")
 plt.show()
