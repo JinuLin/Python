@@ -11,6 +11,12 @@ Robots排除协议重点约定不希望爬虫获取的内容，
 """
 import requests
 """
-
+requests库是一个简洁且简单的处理HTTP请求的第三方库。
+requests的最大优点是程序编写过程更接近正常URL访问过程。
+这个库建立在Python 语言的urllib3 库基础上，类
+似这种在其他函数库之上再封装功能提供更友好函数
+的方式在Python 语言中十分常见。在Python 的生
+态圈里，任何人都有通过技术创新或体验创新发表意
+见和展示才华的机会。
 """
 print(requests.__version__) # 2.18.1
