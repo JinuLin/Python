@@ -1,0 +1,371 @@
+¶ÔÓÚÅÀ³æ´úÀí:  Baiduspider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ÒÔÏÂÍøÖ·²»ÄÜ·ÃÎÊ£º
+¶ÔÓÚÅÀ³æ´úÀí:  Baiduspider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ÒÔÏÂÍøÖ·²»ÄÜ·ÃÎÊ£º
+¶ÔÓÚÅÀ³æ´úÀí:  Googlebot
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ÒÔÏÂÍøÖ·²»ÄÜ·ÃÎÊ£º
+¶ÔÓÚÅÀ³æ´úÀí:  MSNBot
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ÒÔÏÂÍøÖ·²»ÄÜ·ÃÎÊ£º
+¶ÔÓÚÅÀ³æ´úÀí:  Baiduspider-image
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ÒÔÏÂÍøÖ·²»ÄÜ·ÃÎÊ£º
+¶ÔÓÚÅÀ³æ´úÀí:  YoudaoBot
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ÒÔÏÂÍøÖ·²»ÄÜ·ÃÎÊ£º
+¶ÔÓÚÅÀ³æ´úÀí:  Sogou web spider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ÒÔÏÂÍøÖ·²»ÄÜ·ÃÎÊ£º
+¶ÔÓÚÅÀ³æ´úÀí:  Sogou inst spider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ÒÔÏÂÍøÖ·²»ÄÜ·ÃÎÊ£º
+¶ÔÓÚÅÀ³æ´úÀí:  Sogou spider2
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ÒÔÏÂÍøÖ·²»ÄÜ·ÃÎÊ£º
+¶ÔÓÚÅÀ³æ´úÀí:  Sogou blog
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ÒÔÏÂÍøÖ·²»ÄÜ·ÃÎÊ£º
+¶ÔÓÚÅÀ³æ´úÀí:  Sogou News Spider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ÒÔÏÂÍøÖ·²»ÄÜ·ÃÎÊ£º
+¶ÔÓÚÅÀ³æ´úÀí:  Sogou Orion spider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ÒÔÏÂÍøÖ·²»ÄÜ·ÃÎÊ£º
+¶ÔÓÚÅÀ³æ´úÀí:  ChinasoSpider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ÒÔÏÂÍøÖ·²»ÄÜ·ÃÎÊ£º
+¶ÔÓÚÅÀ³æ´úÀí:  Sosospider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+
+ ,ÒÔÏÂÍøÖ·²»ÄÜ·ÃÎÊ£º
+¶ÔÓÚÅÀ³æ´úÀí:  yisouspider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ÒÔÏÂÍøÖ·²»ÄÜ·ÃÎÊ£º
+¶ÔÓÚÅÀ³æ´úÀí:  EasouSpider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ÒÔÏÂÍøÖ·²»ÄÜ·ÃÎÊ£º
+¶ÔÓÚÅÀ³æ´úÀí:  *
+Disallow: /
+ ,ÒÔÏÂÍøÖ·²»ÄÜ·ÃÎÊ£º
+å¯¹äºçˆ¬è™«ä»£ç†:  Baiduspider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ä»¥ä¸‹ç½‘å€ä¸èƒ½è®¿é—®ï¼š
+å¯¹äºçˆ¬è™«ä»£ç†:  Googlebot
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ä»¥ä¸‹ç½‘å€ä¸èƒ½è®¿é—®ï¼š
+å¯¹äºçˆ¬è™«ä»£ç†:  MSNBot
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ä»¥ä¸‹ç½‘å€ä¸èƒ½è®¿é—®ï¼š
+å¯¹äºçˆ¬è™«ä»£ç†:  Baiduspider-image
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ä»¥ä¸‹ç½‘å€ä¸èƒ½è®¿é—®ï¼š
+å¯¹äºçˆ¬è™«ä»£ç†:  YoudaoBot
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ä»¥ä¸‹ç½‘å€ä¸èƒ½è®¿é—®ï¼š
+å¯¹äºçˆ¬è™«ä»£ç†:  Sogou web spider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ä»¥ä¸‹ç½‘å€ä¸èƒ½è®¿é—®ï¼š
+å¯¹äºçˆ¬è™«ä»£ç†:  Sogou inst spider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ä»¥ä¸‹ç½‘å€ä¸èƒ½è®¿é—®ï¼š
+å¯¹äºçˆ¬è™«ä»£ç†:  Sogou spider2
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ä»¥ä¸‹ç½‘å€ä¸èƒ½è®¿é—®ï¼š
+å¯¹äºçˆ¬è™«ä»£ç†:  Sogou blog
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ä»¥ä¸‹ç½‘å€ä¸èƒ½è®¿é—®ï¼š
+å¯¹äºçˆ¬è™«ä»£ç†:  Sogou News Spider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ä»¥ä¸‹ç½‘å€ä¸èƒ½è®¿é—®ï¼š
+å¯¹äºçˆ¬è™«ä»£ç†:  Sogou Orion spider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ä»¥ä¸‹ç½‘å€ä¸èƒ½è®¿é—®ï¼š
+å¯¹äºçˆ¬è™«ä»£ç†:  ChinasoSpider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ä»¥ä¸‹ç½‘å€ä¸èƒ½è®¿é—®ï¼š
+å¯¹äºçˆ¬è™«ä»£ç†:  Sosospider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+
+ ,ä»¥ä¸‹ç½‘å€ä¸èƒ½è®¿é—®ï¼š
+å¯¹äºçˆ¬è™«ä»£ç†:  yisouspider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ä»¥ä¸‹ç½‘å€ä¸èƒ½è®¿é—®ï¼š
+å¯¹äºçˆ¬è™«ä»£ç†:  EasouSpider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+Disallow: /bh
+
+ ,ä»¥ä¸‹ç½‘å€ä¸èƒ½è®¿é—®ï¼š
+å¯¹äºçˆ¬è™«ä»£ç†:  *
+Disallow: /
+ ,ä»¥ä¸‹ç½‘å€ä¸èƒ½è®¿é—®ï¼š
